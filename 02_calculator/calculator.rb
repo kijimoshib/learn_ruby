@@ -22,3 +22,4 @@ end
 def factorial(x)
   (x <= 1) ? 1 : x * factorial(x-1)
 end
+

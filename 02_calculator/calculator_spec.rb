@@ -113,5 +113,5 @@ describe "#factorial" do
   it "computes the factorial of 10" do
     factorial(10).should == 3628800
   end
-
 end
+
